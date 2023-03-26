@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Apache-TVM
 - 🌱 I’m currently learning compilers
 - 📫 How to reach me: kausthubtm6671@gmail.com
